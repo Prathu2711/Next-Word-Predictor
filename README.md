@@ -4,5 +4,7 @@ This project contains the code with a GUI interface in a jupyter notebook , It t
 I used GPT-2 transformer model and trained it on training datasets , and final performance metrices were calculated on test datatsets.
 For GUI Interface functions of Tkinter library were used  
 
+A video showing working of my model is also attached in the rep , kindly check that out!
+
 The perplexity of model was - 1.52
 Its top 5 accuracy was - 95.23%
